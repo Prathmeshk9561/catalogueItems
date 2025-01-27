@@ -1,0 +1,42 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "My First Post",
+      "content": "This is the content of my first post.",
+      "author": "John Doe"
+    },
+    {
+      "id": 2,
+      "title": "Learning JSON",
+      "content": "JSON stands for JavaScript Object Notation and is widely used for APIs.",
+      "author": "Jane Doe"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "postId": 1,
+      "content": "Great post!",
+      "author": "Alice"
+    },
+    {
+      "id": 2,
+      "postId": 2,
+      "content": "Very informative, thanks!",
+      "author": "Bob"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john@example.com"
+    },
+    {
+      "id": 2,
+      "name": "Jane Doe",
+      "email": "jane@example.com"
+    }
+  ]
+}
