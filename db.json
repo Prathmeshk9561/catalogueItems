@@ -1,42 +1,147 @@
 {
-  "posts": [
+  "catalogues": [
     {
-      "id": 1,
-      "title": "My First Post",
-      "content": "This is the content of my first post.",
-      "author": "John Doe"
+      "catalogueName": "Chains",
+      "items": [
+        {
+          "itemName": "Gold Chain",
+          "category": "Jewelry",
+          "subcategory": "Chains",
+          "purity": "24K",
+          "metal": "Gold",
+          "price": 500,
+          "serviceCharge": 50,
+          "studdedStonePrice": 0,
+          "grossWeight": 20,
+          "studdedWeight": 0,
+          "netWeight": 20,
+          "stoneName": null,
+          "stonePieces": 0,
+          "stoneWeight": 0,
+          "stoneCategory": null,
+          "images": [
+            "https://d1put4x3vjlh9s.cloudfront.net/public/uploads/catalog/product/large/F4D6ZG/GCHN101-FXY20-main.webp",
+            "https://d1put4x3vjlh9s.cloudfront.net/public/uploads/catalog/product/large/F4D6ZG/GCHN101-FXY20-main.webp"
+          ]
+        },
+        {
+          "itemName": "Silver Chain",
+          "category": "Jewelry",
+          "subcategory": "Chains",
+          "purity": "925 Sterling",
+          "metal": "Silver",
+          "price": 100,
+          "serviceCharge": 20,
+          "studdedStonePrice": 0,
+          "grossWeight": 15,
+          "studdedWeight": 0,
+          "netWeight": 15,
+          "stoneName": null,
+          "stonePieces": 0,
+          "stoneWeight": 0,
+          "stoneCategory": null,
+          "images": [
+            "https://d1put4x3vjlh9s.cloudfront.net/public/uploads/catalog/product/large/F4D6ZG/GCHN105-FXY20-main.webp"
+          ]
+        }
+      ]
     },
     {
-      "id": 2,
-      "title": "Learning JSON",
-      "content": "JSON stands for JavaScript Object Notation and is widely used for APIs.",
-      "author": "Jane Doe"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "postId": 1,
-      "content": "Great post!",
-      "author": "Alice"
+      "catalogueName": "Rings",
+      "items": [
+        {
+          "itemName": "Diamond Ring",
+          "category": "Jewelry",
+          "subcategory": "Rings",
+          "purity": "18K",
+          "metal": "Gold",
+          "price": 1500,
+          "serviceCharge": 100,
+          "studdedStonePrice": 500,
+          "grossWeight": 10,
+          "studdedWeight": 1,
+          "netWeight": 9,
+          "stoneName": "Diamond",
+          "stonePieces": 1,
+          "stoneWeight": 1,
+          "stoneCategory": "Precious",
+          "images": [
+            "https://example.com/images/diamond_ring1.jpg",
+            "https://example.com/images/diamond_ring2.jpg"
+          ]
+        },
+        {
+          "itemName": "Gold Band",
+          "category": "Jewelry",
+          "subcategory": "Rings",
+          "purity": "22K",
+          "metal": "Gold",
+          "price": 300,
+          "serviceCharge": 30,
+          "studdedStonePrice": 0,
+          "grossWeight": 5,
+          "studdedWeight": 0,
+          "netWeight": 5,
+          "stoneName": null,
+          "stonePieces": 0,
+          "stoneWeight": 0,
+          "stoneCategory": null,
+          "images": [
+            "https://d25g9z9s77rn4i.cloudfront.net/uploads/product/1323/1721723005_26f82918a9a821ad80d7.jpg"
+          ]
+        }
+      ]
     },
     {
-      "id": 2,
-      "postId": 2,
-      "content": "Very informative, thanks!",
-      "author": "Bob"
-    }
-  ],
-  "users": [
-    {
-      "id": 1,
-      "name": "John Doe",
-      "email": "john@example.com"
+      "catalogueName": "Bracelets",
+      "items": [
+        {
+          "itemName": "Gold Bracelet",
+          "category": "Jewelry",
+          "subcategory": "Bracelets",
+          "purity": "22K",
+          "metal": "Gold",
+          "price": 700,
+          "serviceCharge": 70,
+          "studdedStonePrice": 0,
+          "grossWeight": 15,
+          "studdedWeight": 0,
+          "netWeight": 15,
+          "stoneName": null,
+          "stonePieces": 0,
+          "stoneWeight": 0,
+          "stoneCategory": null,
+          "images": [
+            "https://www.onlinepng.com/cdn/shop/files/BRT525095-1.jpg?v=1719396621&width=900",
+            "https://www.onlinepng.com/cdn/shop/files/BRT525095-1.jpg?v=1719396621&width=900"
+          ]
+        }
+      ]
     },
     {
-      "id": 2,
-      "name": "Jane Doe",
-      "email": "jane@example.com"
+      "catalogueName": "Earrings",
+      "items": [
+        {
+          "itemName": "Gold Hoop Earrings",
+          "category": "Jewelry",
+          "subcategory": "Earrings",
+          "purity": "22K",
+          "metal": "Gold",
+          "price": 250,
+          "serviceCharge": 25,
+          "studdedStonePrice": 0,
+          "grossWeight": 7,
+          "studdedWeight": 0,
+          "netWeight": 7,
+          "stoneName": null,
+          "stonePieces": 0,
+          "stoneWeight": 0,
+          "stoneCategory": null,
+          "images": [
+            "https://d25g9z9s77rn4i.cloudfront.net/uploads/product/546/1660221050_7f3c87a72b3f325d769d.jpg"
+          ]
+        }
+      ]
     }
   ]
 }
