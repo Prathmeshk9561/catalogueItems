@@ -26,17 +26,17 @@
           ]
         },
         {
-          "itemName": "Silver Chain",
+          "itemName": "Gold Chain",
           "category": "Jewelry",
           "subcategory": "Chains",
-          "purity": "925 Sterling",
-          "metal": "Silver",
-          "price": 100,
-          "serviceCharge": 20,
+          "purity": "24K",
+          "metal": "Gold",
+          "price": 500,
+          "serviceCharge": 50,
           "studdedStonePrice": 0,
-          "grossWeight": 15,
+          "grossWeight": 20,
           "studdedWeight": 0,
-          "netWeight": 15,
+          "netWeight": 20,
           "stoneName": null,
           "stonePieces": 0,
           "stoneWeight": 0,
@@ -46,12 +46,51 @@
             "https://d1put4x3vjlh9s.cloudfront.net/public/uploads/catalog/product/large/F4D6ZG/GCHN101-FXY20-main.webp",
             "https://rudrakshartjewellery.in/cdn/shop/products/IMG_1982_200x.jpg?v=1681736862"
           ]
-        }
-      ]
-    },
-    {
-      "catalogueName": "Chains",
-      "items": [
+        },
+        {
+          "itemName": "Gold Chain",
+          "category": "Jewelry",
+          "subcategory": "Chains",
+          "purity": "24K",
+          "metal": "Gold",
+          "price": 500,
+          "serviceCharge": 50,
+          "studdedStonePrice": 0,
+          "grossWeight": 20,
+          "studdedWeight": 0,
+          "netWeight": 20,
+          "stoneName": null,
+          "stonePieces": 0,
+          "stoneWeight": 0,
+          "stoneCategory": null,
+          "images": [
+            "https://d1put4x3vjlh9s.cloudfront.net/public/uploads/catalog/product/large/F4D6ZG/GCHN105-FXY20-main.webp",
+            "https://d1put4x3vjlh9s.cloudfront.net/public/uploads/catalog/product/large/F4D6ZG/GCHN101-FXY20-main.webp",
+            "https://rudrakshartjewellery.in/cdn/shop/products/IMG_1982_200x.jpg?v=1681736862"
+          ]
+        },
+        {
+          "itemName": "Gold Chain",
+          "category": "Jewelry",
+          "subcategory": "Chains",
+          "purity": "24K",
+          "metal": "Gold",
+          "price": 500,
+          "serviceCharge": 50,
+          "studdedStonePrice": 0,
+          "grossWeight": 20,
+          "studdedWeight": 0,
+          "netWeight": 20,
+          "stoneName": null,
+          "stonePieces": 0,
+          "stoneWeight": 0,
+          "stoneCategory": null,
+          "images": [
+            "https://d1put4x3vjlh9s.cloudfront.net/public/uploads/catalog/product/large/F4D6ZG/GCHN105-FXY20-main.webp",
+            "https://d1put4x3vjlh9s.cloudfront.net/public/uploads/catalog/product/large/F4D6ZG/GCHN101-FXY20-main.webp",
+            "https://rudrakshartjewellery.in/cdn/shop/products/IMG_1982_200x.jpg?v=1681736862"
+          ]
+        },
         {
           "itemName": "Gold Chain",
           "category": "Jewelry",
